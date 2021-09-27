@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/citas-Vet/static/css/main.84d8d7f0.chunk.css",
+    "main.js": "/citas-Vet/static/js/main.942a298b.chunk.js",
+    "main.js.map": "/citas-Vet/static/js/main.942a298b.chunk.js.map",
+    "runtime-main.js": "/citas-Vet/static/js/runtime-main.dd911cd4.js",
+    "runtime-main.js.map": "/citas-Vet/static/js/runtime-main.dd911cd4.js.map",
+    "static/js/2.cc6591cc.chunk.js": "/citas-Vet/static/js/2.cc6591cc.chunk.js",
+    "static/js/2.cc6591cc.chunk.js.map": "/citas-Vet/static/js/2.cc6591cc.chunk.js.map",
+    "static/js/3.a3a8ae90.chunk.js": "/citas-Vet/static/js/3.a3a8ae90.chunk.js",
+    "static/js/3.a3a8ae90.chunk.js.map": "/citas-Vet/static/js/3.a3a8ae90.chunk.js.map",
+    "index.html": "/citas-Vet/index.html",
+    "static/css/main.84d8d7f0.chunk.css.map": "/citas-Vet/static/css/main.84d8d7f0.chunk.css.map",
+    "static/js/2.cc6591cc.chunk.js.LICENSE.txt": "/citas-Vet/static/js/2.cc6591cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd911cd4.js",
+    "static/js/2.cc6591cc.chunk.js",
+    "static/css/main.84d8d7f0.chunk.css",
+    "static/js/main.942a298b.chunk.js"
+  ]
+}
